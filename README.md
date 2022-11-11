@@ -3,10 +3,10 @@ Welcome!
 Here is a small arithmetic calculator built with the React library.
 
 How to run it on your local machine :
-1 - Clone this repo into your directory of choice
-2 - Check that you have npm downloaded, if not check this link [download npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-3 - npm install
-4 - npm start
+- Clone this repo into your directory of choice
+- Check that you have npm downloaded, if not check this link [download npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- npm install
+- npm start
 
 If it npm doesn't automatically redirect you open http://localhost:3000/ after npm start
 
