@@ -4,7 +4,7 @@ Here is a small arithmetic calculator built with the React library.
 
 How to run it on your local machine :
 1 - Clone this repo into your directory of choice
-2 - Check that you have npm downloaded, if not check this link [download vpm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+2 - Check that you have npm downloaded, if not check this link [download npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 3 - npm install
 4 - npm start
 
