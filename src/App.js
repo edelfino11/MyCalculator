@@ -31,6 +31,10 @@ class App extends Component {
             checkResult = this.state.result.replace('--','+')
         }
 
+        else if(this.state.result.includes('^')){
+            checkResult = this.state.result.replace('^','**')
+        }
+
         else {
             checkResult = this.state.result
         }
@@ -38,7 +42,7 @@ class App extends Component {
         try {
             this.setState({
                 // eslint-disable-next-line
-                result: (eval(checkResult) || "" ) + ""
+                result: eval(checkResult)
             })
         } catch (e) {
             this.setState({ result: "error" })

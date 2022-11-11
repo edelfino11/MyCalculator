@@ -5,7 +5,7 @@ class CalculatorKeyPadComponent extends Component {
         super(props)
     };
     render() {
-        const symbols = ["(", ")", "CE", "C", "1", "2", "3","+", "4", "5", "6","-","7","8","9","*", ".", "0", "=", "/"];
+        const symbols = ["(", ")", "^", "C", "1", "2", "3","+", "4", "5", "6","-","7","8","9","*", ".", "0", "=", "/"];
         return (
             <div className="button">
                 {symbols.map((object, _) => (
