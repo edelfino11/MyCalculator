@@ -11,4 +11,6 @@ How to run it on your local machine :
 If it npm doesn't automatically redirect you open http://localhost:3000/ after npm start
 
 Take a quick look:
+
+
 <img width="478" alt="Screen Shot 2022-11-11 at 1 27 58 AM" src="https://user-images.githubusercontent.com/55937173/201277422-adf76616-b7aa-40f8-888d-68d16b894b11.png">
