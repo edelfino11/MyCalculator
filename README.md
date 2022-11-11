@@ -1,6 +1,6 @@
 Welcome!
 
-Here is a small arithmetic calculator built with REACT.JS library.
+Here is a small arithmetic calculator built with the React library.
 
 How to run it on your local machine :
 1 - Clone this repo into your directory of choice
