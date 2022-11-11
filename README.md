@@ -13,4 +13,4 @@ If it npm doesn't automatically redirect you open http://localhost:3000/ after n
 Take a quick look:
 
 
-<img width="478" alt="Screen Shot 2022-11-11 at 1 27 58 AM" src="https://user-images.githubusercontent.com/55937173/201277422-adf76616-b7aa-40f8-888d-68d16b894b11.png">
+<img width="442" alt="Screen Shot 2022-11-11 at 1 53 34 AM" src="https://user-images.githubusercontent.com/55937173/201281090-edf11ec2-cbc2-4b97-bb82-73b1ad8fc24a.png">
