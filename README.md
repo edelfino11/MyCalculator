@@ -13,4 +13,5 @@ If npm doesn't automatically redirect you open http://localhost:3000/ after runn
 Take a quick look:
 
 
-<img width="442" alt="Screen Shot 2022-11-11 at 1 53 34 AM" src="https://user-images.githubusercontent.com/55937173/201281090-edf11ec2-cbc2-4b97-bb82-73b1ad8fc24a.png">
+<img width="458" alt="Screen Shot 2022-11-11 at 2 34 11 AM" src="https://user-images.githubusercontent.com/55937173/201289691-f5a7cec7-7642-4eea-83b0-88cae1fcc94d.png">
+
