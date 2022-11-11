@@ -40,9 +40,14 @@ class App extends Component {
         }
 
         try {
+            const cleanNum = (str) => str.replace(/\d*(\.\d+)?/g, n => n && +n);
+            const clean = cleanNum(checkResult);
+            console.log(clean);
+            const result = new Function(`return (${clean})`)();
+
             this.setState({
                 // eslint-disable-next-line
-                result: eval(checkResult)
+                result: result
             })
         } catch (e) {
             this.setState({ result: "error" })
@@ -52,6 +57,8 @@ class App extends Component {
     reset = () => { this.setState({ result: ""}) };
 
     backspace = () => { this.setState({ result: this.state.result.slice(0, -1) }) };
+
+    cleanNum = () => { this.setState({ result: this.state.result.replace(/\d*(\.\d+)?/g, n => n && +n) }) };
 
     render() {
         return (
