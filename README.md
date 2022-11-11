@@ -8,7 +8,7 @@ How to run it on your local machine :
 - npm install
 - npm start
 
-If it npm doesn't automatically redirect you open http://localhost:3000/ after npm start
+If npm doesn't automatically redirect you open http://localhost:3000/ after running npm start
 
 Take a quick look:
 
